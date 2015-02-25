@@ -2,7 +2,7 @@
 //  SecondViewController.swift
 //  Mucki
 //
-//  Created by Hans Scheurlen on 11.02.15.
+//  Created by Hans Scheurlen on 11.02.15. 
 //  Copyright (c) 2015 Hans Scheurlen. All rights reserved.
 //
 
